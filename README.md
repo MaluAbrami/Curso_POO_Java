@@ -21,5 +21,6 @@ Todos os códigos em Java realizados durante as aulas do curso de POO no Youtube
         - Reduzir efeitos colaterais
     - Anotações sobre o código:
         - ```Abstract``` - significa que o código não será desenvolvido dentro do que foi definido como abstrato. Ele será definido em outro lugar, quando for implementar a interface. Ele é usado nos métodos que ficam na ***Interface***
+        - adicionar os métodos abstratos da interface para a classe é algo automático, assim como a criação de get, set e constructor
 - ***Herança***
 - ***Polimorfismo***
