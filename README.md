@@ -17,6 +17,6 @@ Todos os códigos em Java realizados durante as aulas do curso de POO no Youtube
     - **Vantagens**: 
         - Tornar mudanças invisíveis
         - Facilitar reutilização do código
-        - 
+        - Reduzir efeitos colaterais
 - ***Herança***
 - ***Polimorfismo***
