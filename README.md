@@ -24,3 +24,7 @@ Todos os códigos em Java realizados durante as aulas do curso de POO no Youtube
         - adicionar os métodos abstratos da interface para a classe é algo automático, assim como a criação de get, set e constructor
 - ***Herança***
 - ***Polimorfismo***
+
+# Playlist das Aulas no Youtube
+[Curso de POO em Java](https://www.youtube.com/watch?v=KlIL63MeyMY&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&ab_channel=CursoemV%C3%ADdeo)
+- Obs: também tem esse mesmo curso só que na linguagem PHP
