@@ -4,6 +4,7 @@ Todos os códigos em Java realizados durante as aulas do curso de POO no Youtube
 # Dicas de Atalhos no NetBeans
 - ***alt + scroll*** : serve para aumentar ou diminuir o zoom do código
 - ***alt + insert*** : serve para acessar a criação de métodos prontos como **constructor**, **get**, **set**, entre outros. Basicamente a IDE faz os métodos para você de acordo com o atributo ou classe que você escolher do seu código.
+- ***ctrl + e*** : serve para apagar uma linha de código
 
 # Pilares do POO
 - ***Encapsulamento***: Ocultar partes independentes da implementação, permitindo construir partes invisíveis ao mundo exterior
@@ -18,5 +19,7 @@ Todos os códigos em Java realizados durante as aulas do curso de POO no Youtube
         - Tornar mudanças invisíveis
         - Facilitar reutilização do código
         - Reduzir efeitos colaterais
+    - Anotações sobre o código:
+        - ```Abstract``` - significa que o código não será desenvolvido dentro do que foi definido como abstrato. Ele será definido em outro lugar, quando for implementar a interface. Ele é usado nos métodos que ficam na ***Interface***
 - ***Herança***
 - ***Polimorfismo***
